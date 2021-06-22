@@ -1,0 +1,7 @@
+TextWindow.Title=("삼각형의 넓이 구하기")
+TextWindow.Write("삼각형의 밑변은 얼마인가요? ")
+length = TextWindow.ReadNumber()
+TextWindow.Write("삼각형의 높이는 얼마인가요? ")
+height = TextWindow.ReadNumber()
+result = (length * height)/2
+TextWindow.WriteLine("삼각형의 넓이는 " + result + " 입니다.")

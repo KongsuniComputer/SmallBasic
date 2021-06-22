@@ -1,0 +1,7 @@
+TextWindow.ForegroundColor = "blue"
+TextWindow.BackgroundColor = "white"
+TextWindow.Title = "Small Basic Programing"
+TextWindow.CursorTop = "20"
+TextWindow.CursorLeft = "20"
+TextWindow.Top = "50"
+TextWindow.Left = "100"
